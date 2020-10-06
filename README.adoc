@@ -51,3 +51,6 @@ Try the following command to check your git environment:
     fix #0 Initial task done
 ....
 
+== Contributors
+
+- mailto:jbruel@gmail.com[Jean-Michel Bruel]
